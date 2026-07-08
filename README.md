@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @moonbird0x1
-- 👀 I’m interested in L2 solutions
-- 🌱 I’m currently learning about L2 solutions
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Arc network, stablecoins and agentic economy
+- 🌱 I’m currently learning about agentic economy
+- 💞️ I’m looking to collaborate on agentic payments
+  
 
-<!---
-moonbird0x1/moonbird0x1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
